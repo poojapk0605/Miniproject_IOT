@@ -1,6 +1,6 @@
 # IoT Project: MQTT and CoAP with VM and Raspberry Pi 4
 
-Conducted a project to explore MQTT and CoAP protocols using both virtual (VM) and physical (Raspberry Pi 4  4) implementations. Initially tested on a VM environment as a subscriber (sub) and local machine as a publisher (pub), then transitioned to physical hardware.
+Conducted a project to explore MQTT and CoAP protocols using both virtual (VM) and physical (Raspberry Pi 4 ) implementations. Initially tested on a VM environment as a subscriber (sub) and local machine as a publisher (pub), then transitioned to physical hardware.
 
 ## Project Overview
 
