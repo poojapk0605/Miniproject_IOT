@@ -26,5 +26,5 @@ This project involved:
 
 - **IoT Protocols**: Hands-on experience with MQTT and CoAP, including QoS implementation.
 - **Virtualization**: Setup and configuration of VM environment for protocol simulation.
-- **Physical IoT Deployment**: Integration and testing of protocols on Raspberry Pi 5.
+- **Physical IoT Deployment**: Integration and testing of protocols on Raspberry Pi 4.
 
