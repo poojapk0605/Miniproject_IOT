@@ -12,7 +12,7 @@ This project involved:
 ## Key Components
 
 - **Virtual Machine (VM)**: Used as a subscriber to simulate MQTT and CoAP protocols.
-- **Raspberry Pi 4 **: Deployed as a publisher to implement and test MQTT and CoAP in a physical IoT setup.
+- **Raspberry Pi4**: Deployed as a publisher to implement and test MQTT and CoAP in a physical IoT setup.
 - **Scripting**: Developed scripts to generate simulated data and test protocol functionalities.
 - **MQTT and CoAP**: Implemented both protocols with varying Quality of Service (QoS) levels for data transmission.
 
